@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.48.71.36:8081/repository/Namaswi_Release/</url>
+	      <url>http://13.48.71.36:8081/repository/sienna_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.48.71.36:8081/repository/Namaswi_Snapshot/</url>
+	      <url>http://13.48.71.36:8081/repository/Sienna_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
