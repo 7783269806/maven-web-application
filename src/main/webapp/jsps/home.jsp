@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center"> Mithun Technologies. PNo: +91-9980923226,+91-9014996877</h1>
+<h1 align="center"> sai finance company pvt ltd</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
 
 <h2> Trainer Name: Balaji Lachhannagari</h2>
